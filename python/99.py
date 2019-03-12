@@ -14,4 +14,4 @@ for value in lines:
     if ans > maxValue:
         maxValue = ans
         maxLine = line
-        print(maxValue, maxLine)
+        print(maxValue, maxLine)  # eventually prints 709
